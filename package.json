@@ -1,6 +1,6 @@
 {
   "name": "gulp-less-base-import",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "add global dependencies to less file for gulp, this loader would resolve absolute global file path to relative path.",
   "main": "index.js",
   "scripts": {
