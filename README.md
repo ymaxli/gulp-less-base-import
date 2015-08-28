@@ -1,4 +1,4 @@
-# gulp-less-base-import
+# gulp-less-base-import [![Build Status](https://travis-ci.org/MaxLee1994/gulp-less-base-import.svg?branch=master)](https://travis-ci.org/MaxLee1994/gulp-less-base-import)
 
 add global dependencies to less file for gulp, this loader would resolve absolute global file path to relative path.
 
